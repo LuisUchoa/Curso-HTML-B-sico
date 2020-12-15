@@ -1,0 +1,32 @@
+.titulo{
+    color: red;
+}
+
+.subtitulo {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#link1{
+color: blueviolet;
+}
+
+
+#link2{
+    color: rgb(201, 156, 243);
+    }
+
+    
+#link3{
+    color: rgb(75, 133, 0);
+    }
+
+    
+#link4{
+    color: rgb(223, 226, 43);
+    }
+    
+#link5{
+    color: rgb(226, 43, 43);
+    }
